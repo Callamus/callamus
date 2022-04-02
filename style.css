@@ -1,0 +1,219 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Poppins', sans-serif;
+	background-image: linear-gradient(to right,skyblue,white,skyblue);
+	
+}
+.aboutus{
+	background-image: linear-gradient(white,white);
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+	width: 90%;
+	font-family: fantasy;
+	font-style: oblique;
+}
+.aboutus p{
+	background-image: linear-gradient(white,white);
+	text-align: center;
+}
+.aboutus h1{
+	background-image: linear-gradient(white,white);
+	text-align: center;
+	margin: 10px;
+	color: green;
+}
+.aboutus h1 i{
+	background-image: linear-gradient(white,white);
+	align-content: center;
+	text-align: center;
+}
+* background{
+	height: 70%;
+	width: 70%;
+
+}
+.contactus{
+	margin: 40px;
+	height: 290px;
+	color: green;
+	width: 100%;
+	align-content: center;
+	text-align: center;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+	background-image: linear-gradient(to right,white,white)
+}
+.contactus h1{
+	height: 100px;
+	color: orangered;
+	background-image: linear-gradient(to right,white,white)
+
+}
+.contactus p{
+	height: 35px;
+	margin: 10px;
+	background-image: linear-gradient(to right,white,white)
+
+}
+.contactus p input{
+	width: 30%;
+	height: 30px;
+	background-image: linear-gradient(to right,white,white)
+
+}
+.contactus p label{
+	background-image: linear-gradient(to right,white,white);
+}
+.contactus button{
+	background-color: green;
+	height: 45px;
+	width: 70px;
+	background-image: linear-gradient(to right,white,white)
+
+
+}
+.wazim{
+	color: black;
+	width: 100%;
+	background-image: linear-gradient(black,black);	
+}
+.wazim h1{
+	position: fixed;
+	top: 0;
+	background-image: linear-gradient(black,black);
+	color: black;
+	height: 100px;
+	width: 100%;
+	background-clip: text;
+}
+.login button{
+	background-color: green;
+}
+.head h1{
+	text-align: center;
+	background-image: linear-gradient(black,black);
+	color: white;
+}
+.login{
+	position: ;
+	text-align: right;
+}
+.polin{
+	width: 100%;
+	padding: 20px;
+	margin: 100px auto;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-content: center;
+	align-items: center;
+}
+.pics{
+	width: 350px;
+	margin: 50px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+	transition: 1s;
+	text-align: center;
+	background-image: linear-gradient(to right,white,white);
+}
+.pics img{
+	display: block;u
+	width: 100%;
+	border-radius: 5px;
+	background-image: linear-gradient(to right,white,white);
+}
+.pics:hovr{
+
+	transform: scale(1.3);
+	z-index: 2;
+}
+.pics button{
+	height: 100%;
+	width: 60%;
+	color: white;
+	background-color: black;
+}
+.pics p{
+	background-image: linear-gradient(to right,white,white);
+}
+.pics h1{
+	background-image: linear-gradient(to right,white,white);
+}
+.pics h1 i{
+	background-image: linear-gradient(to right,white,white);
+}
+.pics p strike{
+	background-image: linear-gradient(to right,white,white);
+}
+.pics p button{
+	background-image: linear-gradient(to right,white,white);
+	color: black;
+	background-color: green;
+}
+.price{
+	color: grey; 
+	font-size: 22px;
+}
+.nix{
+	text-align: center;
+	height: 40px;
+	color:black;
+	font-family: sans-serif ;
+	animation-name: nix accessories;
+	animation-duration: 10s;
+
+}
+.late{
+	text-align: center;
+	word-spacing: 50px;
+	border-radius: 5px ;
+	color: orangered;
+}
+.late a{
+	background-image: linear-gradient(to right,white,white);
+
+}
+.late a:hover{
+	color: black;
+	background-color: green;
+	width: 100px;
+	height: 50px;
+	background-image: linear-gradient(to right,white,white);
+
+}
+.navbar{
+	height: 75px;
+
+}
+.container{
+	image align-content: center;
+
+}
+.footer{
+	align-content: center;
+	font-family: serif;
+	align-content: bottom;
+}
+.button{
+	background-color: green;
+}
+.sam{
+	height: 150px;
+	text-align: center;
+	color: orangered;
+	background-color: white;
+	
+}
+.pics p button{
+	background-color: green;
+}
+.sam{
+	background-image: linear-gradient(to right,black,black);
+}
+.sam p{
+	color: grey;
+	position: centre;
+	position: bottom;
+	alignment-baseline: auto;
+	background-image: linear-gradient(to right,black,black);
+}
